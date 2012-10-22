@@ -1,0 +1,5 @@
+
+    [console_scripts]
+        rst2html5=html5writer.scripts:rst2html5
+        test_html5=html5writer.scripts:test
+    

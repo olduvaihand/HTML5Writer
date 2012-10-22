@@ -1,0 +1,11 @@
+README.txt
+setup.py
+lib/HTML5Writer.egg-info/PKG-INFO
+lib/HTML5Writer.egg-info/SOURCES.txt
+lib/HTML5Writer.egg-info/dependency_links.txt
+lib/HTML5Writer.egg-info/entry_points.txt
+lib/HTML5Writer.egg-info/not-zip-safe
+lib/HTML5Writer.egg-info/requires.txt
+lib/HTML5Writer.egg-info/top_level.txt
+lib/html5writer/__init__.py
+lib/html5writer/scripts.py
